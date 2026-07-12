@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-05T22:57:13.749Z",
+  "generated": "2026-07-12T22:41:44.353Z",
   "count": 150,
   "criteria": {
     "momentum_weight": 35,
@@ -10,1507 +10,1507 @@
     "min_avg_volume": 500000
   },
   "symbols": [
-    "CCXI",
-    "NVCT",
-    "RGNX",
-    "MBX",
+    "CRNX",
+    "FBRX",
     "BLZE",
+    "RGNX",
+    "TRAX",
+    "FTXN",
     "DFTX",
-    "ODD",
     "APGE",
-    "PAYO",
-    "LABU",
-    "INNV",
-    "WNC",
-    "CNA",
-    "ARQQ",
-    "CON",
-    "REYN",
+    "NVCT",
+    "KSTR",
     "TECH",
-    "CINF",
-    "LFST",
-    "PRVA",
-    "LESL",
-    "CBRL",
-    "RNAC",
-    "KVUE",
-    "NUVL",
-    "GPC",
-    "SKWD",
-    "GL",
-    "COMP",
-    "RLI",
-    "KMB",
-    "ACA",
-    "AKTS",
-    "ACGL",
-    "BRBR",
-    "CCEP",
-    "CCK",
-    "BALL",
-    "ABSI",
-    "TRV",
-    "SLGN",
-    "CDP",
-    "USFD",
-    "AMCR",
-    "ALHC",
-    "PRCH",
-    "SYY",
-    "ALL",
-    "SCO",
-    "EG",
-    "JNJ",
+    "DFGP",
+    "FXN",
+    "CCXI",
+    "STTK",
+    "HELP",
+    "TENX",
+    "NHI",
+    "LABU",
     "IBB",
     "NMIH",
-    "NRIX",
-    "CB",
-    "YANG",
-    "DVA",
-    "WST",
-    "ORI",
-    "LTC",
-    "SIGI",
-    "FFBC",
-    "KIE",
-    "CAH",
-    "SAN",
-    "HCSG",
-    "V",
-    "HOOG",
-    "CFR",
-    "MAX",
-    "HG",
-    "RDN",
+    "ZBIO",
+    "WSE",
+    "CON",
+    "BBIO",
+    "XENE",
+    "CNA",
     "RYAAY",
-    "MTG",
-    "AXS",
-    "SHW",
-    "PGR",
-    "PFGC",
-    "XERS",
-    "ATEX",
-    "NWG",
-    "MRNA",
-    "HSIC",
+    "ALL",
     "ESNT",
-    "ASB",
-    "JETS",
-    "BCS",
-    "AFG",
-    "LYG",
-    "VRTX",
-    "COO",
+    "MBX",
+    "INMD",
     "GMAB",
-    "VTR",
-    "WSBC",
-    "MICC",
-    "CMS",
-    "YUM",
-    "GNW",
-    "BPOP",
-    "MNST",
-    "KSTR",
-    "BRO",
-    "GRND",
-    "CFG",
-    "IDA",
-    "MA",
-    "CL",
-    "HD",
-    "KO",
-    "FTDR",
-    "DB",
-    "BBVA",
-    "CVBF",
-    "AXP",
-    "USB",
-    "XBI",
-    "SPG",
-    "PRU",
-    "UNM",
-    "OHI",
-    "FSS",
-    "ACIW",
-    "CWT",
-    "AUB",
-    "ABBV",
-    "TFSL",
-    "ED",
-    "CNO",
-    "FIBK",
-    "ONB",
-    "PNC",
+    "CURB",
+    "RPD",
+    "UGP",
     "QNST",
-    "HIG",
-    "KYMR",
+    "PRVA",
+    "FFBC",
+    "CWT",
+    "TBPH",
+    "HDB",
+    "DTIL",
+    "AHR",
+    "RDN",
+    "MTG",
+    "XYL",
+    "ACGL",
+    "AXS",
+    "CDP",
+    "PAY",
+    "ABSI",
+    "KMB",
+    "ONB",
+    "BNL",
+    "PB",
+    "V",
+    "XBI",
+    "JPM",
+    "PRU",
+    "SAN",
+    "CCEP",
+    "ARMK",
+    "ARI",
+    "MNST",
     "FHB",
+    "SIGI",
+    "SCHW",
+    "PBUS",
+    "GFL",
+    "AGNC",
+    "TRNO",
+    "TRV",
+    "CQQQ",
+    "NMR",
+    "AUB",
+    "IDA",
+    "ABBV",
+    "NVO",
+    "GL",
+    "CB",
+    "FIBK",
+    "MFG",
+    "VTR",
+    "MAGS",
+    "HG",
+    "USB",
+    "LXP",
+    "BPOP",
+    "ORI",
+    "NTST",
+    "VIV",
+    "FR",
+    "ODD",
+    "QGEN",
     "BAC",
-    "NVST",
-    "L",
-    "FNB",
-    "NWL",
-    "CBSH",
-    "RDY",
-    "CXT",
-    "ZION",
-    "CUZ",
-    "SLN",
+    "PNC",
+    "WM",
+    "BCS",
+    "TENB",
+    "PGR",
+    "UNP",
+    "ASB",
+    "AVAH",
+    "AMP",
+    "SYY",
+    "VLTO",
+    "RLI",
+    "HWC",
     "WRB",
-    "CMG",
-    "NHI",
-    "SEZL"
+    "REYN",
+    "AFG",
+    "CM",
+    "AIG",
+    "ES",
+    "CFR",
+    "GOOGN",
+    "CCK",
+    "KVUE",
+    "SSB",
+    "WSFS",
+    "OGS",
+    "BUSE",
+    "EPRT",
+    "CFG",
+    "ACIW",
+    "TROW",
+    "SMWB",
+    "HOPE",
+    "WAFD",
+    "WCN",
+    "RJF",
+    "CNO",
+    "BNY",
+    "IHI",
+    "MA",
+    "WST",
+    "TOWN",
+    "CTVA",
+    "AGIO",
+    "NTRS",
+    "FBP",
+    "GRPN",
+    "BV",
+    "CVBF",
+    "AJG",
+    "JNJ",
+    "SVXY",
+    "BMO",
+    "YUM"
   ],
   "details": [
     {
-      "symbol": "CCXI",
-      "score": 80.9,
-      "price": 19.1,
-      "momentum_pct": 86.89,
-      "vol_growth_pct": 183654.22,
-      "rel_strength_pct": 88.51,
-      "avg_volume": 3051980
+      "symbol": "CRNX",
+      "score": 90.55,
+      "price": 83.58,
+      "momentum_pct": 149.27,
+      "vol_growth_pct": 967.82,
+      "rel_strength_pct": 146.94,
+      "avg_volume": 7198570
     },
     {
-      "symbol": "NVCT",
-      "score": 60.15,
-      "price": 19.57,
-      "momentum_pct": 102.38,
-      "vol_growth_pct": 1033.53,
-      "rel_strength_pct": 104,
-      "avg_volume": 517960
-    },
-    {
-      "symbol": "RGNX",
-      "score": 56.85,
-      "price": 13.28,
-      "momentum_pct": 93.02,
-      "vol_growth_pct": 111.25,
-      "rel_strength_pct": 94.65,
-      "avg_volume": 2619355
-    },
-    {
-      "symbol": "MBX",
-      "score": 54.8,
-      "price": 57.8,
-      "momentum_pct": 86.99,
-      "vol_growth_pct": 1.95,
-      "rel_strength_pct": 88.62,
-      "avg_volume": 1123680
+      "symbol": "FBRX",
+      "score": 75.88,
+      "price": 43.92,
+      "momentum_pct": 152.41,
+      "vol_growth_pct": 580.15,
+      "rel_strength_pct": 150.08,
+      "avg_volume": 808745
     },
     {
       "symbol": "BLZE",
-      "score": 54.67,
-      "price": 15.62,
-      "momentum_pct": 86.4,
-      "vol_growth_pct": 579.47,
-      "rel_strength_pct": 88.02,
-      "avg_volume": 4986560
+      "score": 54.71,
+      "price": 17.6,
+      "momentum_pct": 130.07,
+      "vol_growth_pct": -47.37,
+      "rel_strength_pct": 127.74,
+      "avg_volume": 5354475
+    },
+    {
+      "symbol": "RGNX",
+      "score": 53.62,
+      "price": 13.95,
+      "momentum_pct": 122.13,
+      "vol_growth_pct": 3.1,
+      "rel_strength_pct": 119.8,
+      "avg_volume": 2952455
+    },
+    {
+      "symbol": "TRAX",
+      "score": 52.72,
+      "price": 36.24,
+      "momentum_pct": 112.8,
+      "vol_growth_pct": 78.74,
+      "rel_strength_pct": 110.47,
+      "avg_volume": 944570
+    },
+    {
+      "symbol": "FTXN",
+      "score": 48.69,
+      "price": 34.8,
+      "momentum_pct": -2.78,
+      "vol_growth_pct": 738.5,
+      "rel_strength_pct": -5.11,
+      "avg_volume": 2133115
     },
     {
       "symbol": "DFTX",
-      "score": 52.35,
-      "price": 44.19,
-      "momentum_pct": 79.71,
-      "vol_growth_pct": 227.38,
-      "rel_strength_pct": 81.33,
-      "avg_volume": 4950600
-    },
-    {
-      "symbol": "ODD",
-      "score": 51.67,
-      "price": 17.9,
-      "momentum_pct": 77.76,
-      "vol_growth_pct": 38.25,
-      "rel_strength_pct": 79.38,
-      "avg_volume": 1853830
+      "score": 45.1,
+      "price": 47.07,
+      "momentum_pct": 95.23,
+      "vol_growth_pct": -31.15,
+      "rel_strength_pct": 92.9,
+      "avg_volume": 4848300
     },
     {
       "symbol": "APGE",
-      "score": 49.58,
-      "price": 132.91,
-      "momentum_pct": 46.22,
-      "vol_growth_pct": 921.31,
-      "rel_strength_pct": 47.84,
-      "avg_volume": 5944305
-    },
-    {
-      "symbol": "PAYO",
-      "score": 48.85,
-      "price": 7.09,
-      "momentum_pct": 38.21,
-      "vol_growth_pct": -70.77,
-      "rel_strength_pct": 39.83,
-      "avg_volume": 13191270
-    },
-    {
-      "symbol": "LABU",
-      "score": 48.8,
-      "price": 303.45,
-      "momentum_pct": 69.32,
-      "vol_growth_pct": -8.79,
-      "rel_strength_pct": 70.94,
-      "avg_volume": 640480
-    },
-    {
-      "symbol": "INNV",
-      "score": 47.86,
-      "price": 11.99,
-      "momentum_pct": 66.53,
-      "vol_growth_pct": 66.59,
-      "rel_strength_pct": 68.15,
-      "avg_volume": 506445
-    },
-    {
-      "symbol": "WNC",
-      "score": 47.52,
-      "price": 13.26,
-      "momentum_pct": 65.54,
-      "vol_growth_pct": 22.97,
-      "rel_strength_pct": 67.17,
-      "avg_volume": 1050755
-    },
-    {
-      "symbol": "CNA",
-      "score": 47.52,
-      "price": 51.17,
-      "momentum_pct": 21.49,
-      "vol_growth_pct": 49.13,
-      "rel_strength_pct": 23.11,
-      "avg_volume": 629135
-    },
-    {
-      "symbol": "ARQQ",
-      "score": 47.47,
-      "price": 23.51,
-      "momentum_pct": 65.37,
-      "vol_growth_pct": 45.58,
-      "rel_strength_pct": 66.99,
-      "avg_volume": 1507960
-    },
-    {
-      "symbol": "CON",
-      "score": 47.25,
-      "price": 31.91,
-      "momentum_pct": 28.05,
-      "vol_growth_pct": 40.31,
-      "rel_strength_pct": 29.68,
-      "avg_volume": 1114335
-    },
-    {
-      "symbol": "REYN",
-      "score": 47.15,
-      "price": 27.18,
-      "momentum_pct": 25.37,
-      "vol_growth_pct": 69.57,
-      "rel_strength_pct": 26.99,
-      "avg_volume": 1279885
-    },
-    {
-      "symbol": "TECH",
-      "score": 47.08,
-      "price": 70.83,
-      "momentum_pct": 33.19,
-      "vol_growth_pct": 321.81,
-      "rel_strength_pct": 34.82,
-      "avg_volume": 7876510
-    },
-    {
-      "symbol": "CINF",
-      "score": 46.75,
-      "price": 192.03,
-      "momentum_pct": 19.53,
-      "vol_growth_pct": 55.02,
-      "rel_strength_pct": 21.15,
-      "avg_volume": 904730
-    },
-    {
-      "symbol": "LFST",
-      "score": 46.73,
-      "price": 11.27,
-      "momentum_pct": 47.51,
-      "vol_growth_pct": 111.38,
-      "rel_strength_pct": 49.14,
-      "avg_volume": 4017215
-    },
-    {
-      "symbol": "PRVA",
-      "score": 46.57,
-      "price": 27.36,
-      "momentum_pct": 28.03,
-      "vol_growth_pct": 38.46,
-      "rel_strength_pct": 29.66,
-      "avg_volume": 1256715
-    },
-    {
-      "symbol": "LESL",
-      "score": 46.47,
-      "price": 8.66,
-      "momentum_pct": 62.48,
-      "vol_growth_pct": -51.22,
-      "rel_strength_pct": 64.1,
-      "avg_volume": 521860
-    },
-    {
-      "symbol": "CBRL",
-      "score": 46.35,
-      "price": 53.5,
-      "momentum_pct": 62.12,
-      "vol_growth_pct": -50.23,
-      "rel_strength_pct": 63.75,
-      "avg_volume": 1864820
-    },
-    {
-      "symbol": "RNAC",
-      "score": 46.2,
-      "price": 10.59,
-      "momentum_pct": 61.68,
-      "vol_growth_pct": -54.37,
-      "rel_strength_pct": 63.31,
-      "avg_volume": 521995
-    },
-    {
-      "symbol": "KVUE",
-      "score": 46.03,
-      "price": 19.83,
-      "momentum_pct": 17.48,
-      "vol_growth_pct": 45.59,
-      "rel_strength_pct": 19.1,
-      "avg_volume": 21093415
-    },
-    {
-      "symbol": "NUVL",
-      "score": 45.94,
-      "price": 123.73,
-      "momentum_pct": 31.6,
-      "vol_growth_pct": -75.96,
-      "rel_strength_pct": 33.23,
-      "avg_volume": 5255760
-    },
-    {
-      "symbol": "GPC",
-      "score": 45.85,
-      "price": 132.57,
-      "momentum_pct": 34.41,
-      "vol_growth_pct": 29.07,
-      "rel_strength_pct": 36.04,
-      "avg_volume": 1985445
-    },
-    {
-      "symbol": "SKWD",
-      "score": 45.82,
-      "price": 61.42,
-      "momentum_pct": 39.5,
-      "vol_growth_pct": 167.33,
-      "rel_strength_pct": 41.12,
-      "avg_volume": 652370
-    },
-    {
-      "symbol": "GL",
-      "score": 45.78,
-      "price": 180.49,
-      "momentum_pct": 16.97,
-      "vol_growth_pct": 60.27,
-      "rel_strength_pct": 18.59,
-      "avg_volume": 693550
-    },
-    {
-      "symbol": "COMP",
-      "score": 45.7,
-      "price": 12.62,
-      "momentum_pct": 60.15,
-      "vol_growth_pct": 41.4,
-      "rel_strength_pct": 61.78,
-      "avg_volume": 15694730
-    },
-    {
-      "symbol": "RLI",
-      "score": 45.66,
-      "price": 62.52,
-      "momentum_pct": 24.17,
-      "vol_growth_pct": 7.4,
-      "rel_strength_pct": 25.8,
-      "avg_volume": 1051370
-    },
-    {
-      "symbol": "KMB",
-      "score": 45.6,
-      "price": 114.72,
-      "momentum_pct": 21.44,
-      "vol_growth_pct": 45.07,
-      "rel_strength_pct": 23.06,
-      "avg_volume": 5103345
-    },
-    {
-      "symbol": "ACA",
-      "score": 45.6,
-      "price": 144.97,
-      "momentum_pct": 16.87,
-      "vol_growth_pct": 497.31,
-      "rel_strength_pct": 18.5,
-      "avg_volume": 1021765
-    },
-    {
-      "symbol": "AKTS",
-      "score": 45.55,
-      "price": 31.76,
-      "momentum_pct": 59.68,
-      "vol_growth_pct": 112.33,
-      "rel_strength_pct": 61.3,
-      "avg_volume": 506470
-    },
-    {
-      "symbol": "ACGL",
-      "score": 45.53,
-      "price": 102.2,
-      "momentum_pct": 15.69,
-      "vol_growth_pct": 6.71,
-      "rel_strength_pct": 17.32,
-      "avg_volume": 2344590
-    },
-    {
-      "symbol": "BRBR",
-      "score": 45.48,
-      "price": 13.86,
-      "momentum_pct": 59.49,
-      "vol_growth_pct": 82.11,
-      "rel_strength_pct": 61.12,
-      "avg_volume": 7121405
-    },
-    {
-      "symbol": "CCEP",
-      "score": 45.42,
-      "price": 106.61,
-      "momentum_pct": 15.86,
-      "vol_growth_pct": 6.18,
-      "rel_strength_pct": 17.48,
-      "avg_volume": 2184135
-    },
-    {
-      "symbol": "CCK",
-      "score": 45.42,
-      "price": 113.29,
-      "momentum_pct": 21.74,
-      "vol_growth_pct": 28.51,
-      "rel_strength_pct": 23.36,
-      "avg_volume": 1198145
-    },
-    {
-      "symbol": "BALL",
-      "score": 45.33,
-      "price": 63.39,
-      "momentum_pct": 20.28,
-      "vol_growth_pct": 25.94,
-      "rel_strength_pct": 21.91,
-      "avg_volume": 3399565
-    },
-    {
-      "symbol": "ABSI",
-      "score": 45.08,
-      "price": 11.62,
-      "momentum_pct": 58.31,
-      "vol_growth_pct": 113.73,
-      "rel_strength_pct": 59.94,
-      "avg_volume": 8219980
-    },
-    {
-      "symbol": "TRV",
-      "score": 45.07,
-      "price": 342.31,
-      "momentum_pct": 16.66,
-      "vol_growth_pct": 54.73,
-      "rel_strength_pct": 18.28,
-      "avg_volume": 2150710
-    },
-    {
-      "symbol": "SLGN",
-      "score": 45.06,
-      "price": 46.39,
-      "momentum_pct": 27.87,
-      "vol_growth_pct": 2.81,
-      "rel_strength_pct": 29.49,
-      "avg_volume": 983110
-    },
-    {
-      "symbol": "CDP",
-      "score": 45.04,
-      "price": 37.67,
-      "momentum_pct": 17.39,
-      "vol_growth_pct": 57.4,
-      "rel_strength_pct": 19.01,
-      "avg_volume": 1263545
-    },
-    {
-      "symbol": "USFD",
-      "score": 44.99,
-      "price": 104.29,
-      "momentum_pct": 26.87,
-      "vol_growth_pct": 5.8,
-      "rel_strength_pct": 28.5,
-      "avg_volume": 3221915
-    },
-    {
-      "symbol": "AMCR",
-      "score": 44.97,
-      "price": 45,
-      "momentum_pct": 19.55,
-      "vol_growth_pct": 9.48,
-      "rel_strength_pct": 21.18,
-      "avg_volume": 3495895
-    },
-    {
-      "symbol": "ALHC",
-      "score": 44.93,
-      "price": 23.8,
-      "momentum_pct": 57.93,
-      "vol_growth_pct": -31.58,
-      "rel_strength_pct": 59.56,
-      "avg_volume": 6137860
-    },
-    {
-      "symbol": "PRCH",
-      "score": 44.77,
-      "price": 15.19,
-      "momentum_pct": 57.41,
-      "vol_growth_pct": 63.28,
-      "rel_strength_pct": 59.04,
-      "avg_volume": 2207925
-    },
-    {
-      "symbol": "SYY",
-      "score": 44.71,
-      "price": 84.83,
-      "momentum_pct": 14.1,
-      "vol_growth_pct": 34.61,
-      "rel_strength_pct": 15.72,
-      "avg_volume": 3658910
-    },
-    {
-      "symbol": "ALL",
-      "score": 44.66,
-      "price": 250.33,
-      "momentum_pct": 18.73,
-      "vol_growth_pct": 69.26,
-      "rel_strength_pct": 20.36,
-      "avg_volume": 1891005
-    },
-    {
-      "symbol": "SCO",
-      "score": 44.64,
-      "price": 35.62,
-      "momentum_pct": 38.65,
-      "vol_growth_pct": -33.61,
-      "rel_strength_pct": 40.28,
-      "avg_volume": 6889850
-    },
-    {
-      "symbol": "EG",
-      "score": 44.64,
-      "price": 371.35,
-      "momentum_pct": 16.23,
-      "vol_growth_pct": 14.03,
-      "rel_strength_pct": 17.85,
-      "avg_volume": 506150
-    },
-    {
-      "symbol": "JNJ",
-      "score": 44.61,
-      "price": 263.04,
-      "momentum_pct": 15.28,
-      "vol_growth_pct": 36.24,
-      "rel_strength_pct": 16.91,
-      "avg_volume": 9146045
-    },
-    {
-      "symbol": "IBB",
-      "score": 44.6,
-      "price": 195.7,
-      "momentum_pct": 14.16,
-      "vol_growth_pct": 34.41,
-      "rel_strength_pct": 15.78,
-      "avg_volume": 1638875
-    },
-    {
-      "symbol": "NMIH",
-      "score": 44.58,
-      "price": 41.04,
-      "momentum_pct": 13.75,
-      "vol_growth_pct": 74.17,
-      "rel_strength_pct": 15.37,
-      "avg_volume": 670910
-    },
-    {
-      "symbol": "NRIX",
-      "score": 44.57,
-      "price": 23.97,
-      "momentum_pct": 56.87,
-      "vol_growth_pct": -36.21,
-      "rel_strength_pct": 58.5,
-      "avg_volume": 3926505
-    },
-    {
-      "symbol": "CB",
-      "score": 44.53,
-      "price": 361.17,
-      "momentum_pct": 14.84,
-      "vol_growth_pct": 11.77,
-      "rel_strength_pct": 16.47,
-      "avg_volume": 1751880
-    },
-    {
-      "symbol": "YANG",
-      "score": 44.53,
-      "price": 39.64,
-      "momentum_pct": 33.42,
-      "vol_growth_pct": -21.55,
-      "rel_strength_pct": 35.05,
-      "avg_volume": 816055
-    },
-    {
-      "symbol": "DVA",
-      "score": 44.51,
-      "price": 234.91,
-      "momentum_pct": 22.24,
-      "vol_growth_pct": 29.27,
-      "rel_strength_pct": 23.87,
-      "avg_volume": 836415
-    },
-    {
-      "symbol": "WST",
-      "score": 44.51,
-      "price": 365.74,
-      "momentum_pct": 15.26,
-      "vol_growth_pct": 51.24,
-      "rel_strength_pct": 16.89,
-      "avg_volume": 822550
-    },
-    {
-      "symbol": "ORI",
-      "score": 44.35,
-      "price": 41.87,
-      "momentum_pct": 12.58,
-      "vol_growth_pct": 68.6,
-      "rel_strength_pct": 14.21,
-      "avg_volume": 1801050
-    },
-    {
-      "symbol": "LTC",
-      "score": 44.3,
-      "price": 39.28,
-      "momentum_pct": 12.68,
-      "vol_growth_pct": 15.14,
-      "rel_strength_pct": 14.31,
-      "avg_volume": 618635
-    },
-    {
-      "symbol": "SIGI",
-      "score": 44.28,
-      "price": 100.15,
-      "momentum_pct": 16.44,
-      "vol_growth_pct": 78.04,
-      "rel_strength_pct": 18.07,
-      "avg_volume": 669255
-    },
-    {
-      "symbol": "FFBC",
-      "score": 44.27,
-      "price": 34.39,
-      "momentum_pct": 12.61,
-      "vol_growth_pct": 45.43,
-      "rel_strength_pct": 14.23,
-      "avg_volume": 1098070
-    },
-    {
-      "symbol": "KIE",
-      "score": 44.26,
-      "price": 64.08,
-      "momentum_pct": 15.96,
-      "vol_growth_pct": 8.99,
-      "rel_strength_pct": 17.59,
-      "avg_volume": 1361905
-    },
-    {
-      "symbol": "CAH",
-      "score": 44.26,
-      "price": 238.94,
-      "momentum_pct": 18.44,
-      "vol_growth_pct": -3.67,
-      "rel_strength_pct": 20.07,
-      "avg_volume": 2471875
-    },
-    {
-      "symbol": "SAN",
-      "score": 44.22,
-      "price": 13.95,
-      "momentum_pct": 11.87,
-      "vol_growth_pct": -12.06,
-      "rel_strength_pct": 13.49,
-      "avg_volume": 8412215
-    },
-    {
-      "symbol": "HCSG",
-      "score": 44.2,
-      "price": 25.15,
-      "momentum_pct": 22.98,
-      "vol_growth_pct": 56.48,
-      "rel_strength_pct": 24.61,
-      "avg_volume": 769425
-    },
-    {
-      "symbol": "V",
-      "score": 44.19,
-      "price": 362.13,
-      "momentum_pct": 13.1,
-      "vol_growth_pct": 74.05,
-      "rel_strength_pct": 14.73,
-      "avg_volume": 9087950
-    },
-    {
-      "symbol": "HOOG",
-      "score": 44.05,
-      "price": 37.7,
-      "momentum_pct": 55.34,
-      "vol_growth_pct": -27.57,
-      "rel_strength_pct": 56.96,
-      "avg_volume": 751825
-    },
-    {
-      "symbol": "CFR",
-      "score": 44.05,
-      "price": 154.86,
-      "momentum_pct": 12.32,
-      "vol_growth_pct": -8.43,
-      "rel_strength_pct": 13.95,
-      "avg_volume": 672370
-    },
-    {
-      "symbol": "MAX",
-      "score": 44.04,
-      "price": 13.43,
-      "momentum_pct": 55.26,
-      "vol_growth_pct": 49.01,
-      "rel_strength_pct": 56.89,
-      "avg_volume": 777770
-    },
-    {
-      "symbol": "HG",
-      "score": 44.03,
-      "price": 34.44,
-      "momentum_pct": 18.27,
-      "vol_growth_pct": 44.09,
-      "rel_strength_pct": 19.9,
-      "avg_volume": 537265
-    },
-    {
-      "symbol": "RDN",
-      "score": 44.01,
-      "price": 37.94,
-      "momentum_pct": 12.92,
-      "vol_growth_pct": 33.82,
-      "rel_strength_pct": 14.54,
-      "avg_volume": 1384475
-    },
-    {
-      "symbol": "RYAAY",
-      "score": 43.99,
-      "price": 65.49,
-      "momentum_pct": 14.96,
-      "vol_growth_pct": 11.11,
-      "rel_strength_pct": 16.58,
-      "avg_volume": 948575
-    },
-    {
-      "symbol": "MTG",
-      "score": 43.94,
-      "price": 28.23,
-      "momentum_pct": 12.38,
-      "vol_growth_pct": 30.73,
-      "rel_strength_pct": 14.01,
-      "avg_volume": 1912160
-    },
-    {
-      "symbol": "AXS",
-      "score": 43.94,
-      "price": 113.36,
-      "momentum_pct": 18.9,
-      "vol_growth_pct": 27.65,
-      "rel_strength_pct": 20.53,
-      "avg_volume": 734730
-    },
-    {
-      "symbol": "SHW",
-      "score": 43.93,
-      "price": 352.48,
-      "momentum_pct": 17.46,
-      "vol_growth_pct": 51.15,
-      "rel_strength_pct": 19.08,
-      "avg_volume": 2918840
-    },
-    {
-      "symbol": "PGR",
-      "score": 43.9,
-      "price": 232.22,
-      "momentum_pct": 18.86,
-      "vol_growth_pct": 79.52,
-      "rel_strength_pct": 20.48,
-      "avg_volume": 3702380
-    },
-    {
-      "symbol": "PFGC",
-      "score": 43.88,
-      "price": 113.09,
-      "momentum_pct": 20.4,
-      "vol_growth_pct": 14.77,
-      "rel_strength_pct": 22.02,
-      "avg_volume": 1597710
-    },
-    {
-      "symbol": "XERS",
-      "score": 43.87,
-      "price": 8.28,
-      "momentum_pct": 34.63,
-      "vol_growth_pct": 50.72,
-      "rel_strength_pct": 36.26,
-      "avg_volume": 2272085
-    },
-    {
-      "symbol": "ATEX",
-      "score": 43.85,
-      "price": 105.14,
-      "momentum_pct": 54.73,
-      "vol_growth_pct": -0.8,
-      "rel_strength_pct": 56.36,
-      "avg_volume": 639090
-    },
-    {
-      "symbol": "NWG",
-      "score": 43.83,
-      "price": 17.99,
-      "momentum_pct": 11.12,
-      "vol_growth_pct": 20.87,
-      "rel_strength_pct": 12.74,
-      "avg_volume": 6157935
-    },
-    {
-      "symbol": "MRNA",
-      "score": 43.82,
-      "price": 79.76,
-      "momentum_pct": 54.6,
-      "vol_growth_pct": 66.84,
-      "rel_strength_pct": 56.23,
-      "avg_volume": 9233185
-    },
-    {
-      "symbol": "HSIC",
-      "score": 43.82,
-      "price": 86.43,
-      "momentum_pct": 13.28,
-      "vol_growth_pct": 10.77,
-      "rel_strength_pct": 14.9,
-      "avg_volume": 1400100
-    },
-    {
-      "symbol": "ESNT",
-      "score": 43.81,
-      "price": 64.85,
-      "momentum_pct": 13.43,
-      "vol_growth_pct": 54.89,
-      "rel_strength_pct": 15.06,
-      "avg_volume": 1105540
-    },
-    {
-      "symbol": "ASB",
-      "score": 43.81,
-      "price": 30.64,
-      "momentum_pct": 10.45,
-      "vol_growth_pct": 24.96,
-      "rel_strength_pct": 12.08,
-      "avg_volume": 2402330
-    },
-    {
-      "symbol": "JETS",
-      "score": 43.79,
-      "price": 33.2,
-      "momentum_pct": 18.57,
-      "vol_growth_pct": -23.69,
-      "rel_strength_pct": 20.2,
-      "avg_volume": 2908920
-    },
-    {
-      "symbol": "BCS",
-      "score": 43.78,
-      "price": 27.77,
-      "momentum_pct": 11.04,
-      "vol_growth_pct": -15.43,
-      "rel_strength_pct": 12.66,
-      "avg_volume": 5047635
-    },
-    {
-      "symbol": "AFG",
-      "score": 43.77,
-      "price": 142.75,
-      "momentum_pct": 11.04,
-      "vol_growth_pct": 6.25,
-      "rel_strength_pct": 12.66,
-      "avg_volume": 596225
-    },
-    {
-      "symbol": "LYG",
-      "score": 43.77,
-      "price": 6.06,
-      "momentum_pct": 11.4,
-      "vol_growth_pct": -38.03,
-      "rel_strength_pct": 13.02,
-      "avg_volume": 30060985
-    },
-    {
-      "symbol": "VRTX",
-      "score": 43.75,
-      "price": 528.04,
-      "momentum_pct": 19.54,
-      "vol_growth_pct": 98.06,
-      "rel_strength_pct": 21.16,
-      "avg_volume": 1887845
-    },
-    {
-      "symbol": "COO",
-      "score": 43.69,
-      "price": 74.2,
-      "momentum_pct": 19.64,
-      "vol_growth_pct": -16.39,
-      "rel_strength_pct": 21.26,
-      "avg_volume": 3849325
-    },
-    {
-      "symbol": "GMAB",
-      "score": 43.68,
-      "price": 28.51,
-      "momentum_pct": 15.31,
-      "vol_growth_pct": 11.18,
-      "rel_strength_pct": 16.93,
-      "avg_volume": 1574165
-    },
-    {
-      "symbol": "VTR",
-      "score": 43.65,
-      "price": 92.52,
-      "momentum_pct": 16.97,
-      "vol_growth_pct": 52.28,
-      "rel_strength_pct": 18.59,
-      "avg_volume": 4515775
-    },
-    {
-      "symbol": "WSBC",
-      "score": 43.59,
-      "price": 39.64,
-      "momentum_pct": 14.53,
-      "vol_growth_pct": 116.29,
-      "rel_strength_pct": 16.16,
-      "avg_volume": 2293015
-    },
-    {
-      "symbol": "MICC",
-      "score": 43.59,
-      "price": 18.72,
-      "momentum_pct": 9.92,
-      "vol_growth_pct": 13.62,
-      "rel_strength_pct": 11.55,
-      "avg_volume": 1426845
-    },
-    {
-      "symbol": "CMS",
-      "score": 43.59,
-      "price": 77.73,
-      "momentum_pct": 10.47,
-      "vol_growth_pct": -0.4,
-      "rel_strength_pct": 12.1,
-      "avg_volume": 3751010
-    },
-    {
-      "symbol": "YUM",
-      "score": 43.57,
-      "price": 164.73,
-      "momentum_pct": 11.24,
-      "vol_growth_pct": 21.63,
-      "rel_strength_pct": 12.87,
-      "avg_volume": 2385120
-    },
-    {
-      "symbol": "GNW",
-      "score": 43.55,
-      "price": 9.61,
-      "momentum_pct": 13.33,
-      "vol_growth_pct": 60.77,
-      "rel_strength_pct": 14.95,
-      "avg_volume": 3251550
-    },
-    {
-      "symbol": "BPOP",
-      "score": 43.51,
-      "price": 167.26,
-      "momentum_pct": 9.48,
-      "vol_growth_pct": 18.1,
-      "rel_strength_pct": 11.11,
-      "avg_volume": 620895
-    },
-    {
-      "symbol": "MNST",
-      "score": 43.51,
-      "price": 97.6,
-      "momentum_pct": 10.23,
-      "vol_growth_pct": 26.79,
-      "rel_strength_pct": 11.86,
-      "avg_volume": 6055420
+      "score": 44.91,
+      "price": 133.65,
+      "momentum_pct": 49.33,
+      "vol_growth_pct": -69.07,
+      "rel_strength_pct": 47,
+      "avg_volume": 6069800
+    },
+    {
+      "symbol": "NVCT",
+      "score": 43.08,
+      "price": 18.35,
+      "momentum_pct": 74.6,
+      "vol_growth_pct": 134.75,
+      "rel_strength_pct": 72.27,
+      "avg_volume": 594365
     },
     {
       "symbol": "KSTR",
-      "score": 43.5,
-      "price": 28.19,
-      "momentum_pct": 12.9,
-      "vol_growth_pct": 74.62,
-      "rel_strength_pct": 14.52,
-      "avg_volume": 604775
+      "score": 42.14,
+      "price": 30.14,
+      "momentum_pct": 23.37,
+      "vol_growth_pct": 89.99,
+      "rel_strength_pct": 21.04,
+      "avg_volume": 646000
     },
     {
-      "symbol": "BRO",
-      "score": 43.5,
-      "price": 70,
-      "momentum_pct": 21.99,
-      "vol_growth_pct": 25.56,
-      "rel_strength_pct": 23.62,
-      "avg_volume": 3154940
+      "symbol": "TECH",
+      "score": 42.06,
+      "price": 71.3,
+      "momentum_pct": 31.99,
+      "vol_growth_pct": 16.28,
+      "rel_strength_pct": 29.66,
+      "avg_volume": 8267320
     },
     {
-      "symbol": "GRND",
-      "score": 43.46,
-      "price": 16.06,
-      "momentum_pct": 50.09,
-      "vol_growth_pct": 2.59,
-      "rel_strength_pct": 51.72,
-      "avg_volume": 1857205
+      "symbol": "DFGP",
+      "score": 41.63,
+      "price": 54.22,
+      "momentum_pct": -0.94,
+      "vol_growth_pct": 695.72,
+      "rel_strength_pct": -3.27,
+      "avg_volume": 737085
     },
     {
-      "symbol": "CFG",
-      "score": 43.46,
-      "price": 70.98,
-      "momentum_pct": 11.08,
-      "vol_growth_pct": 7.86,
-      "rel_strength_pct": 12.71,
-      "avg_volume": 4728250
+      "symbol": "FXN",
+      "score": 41.22,
+      "price": 20.62,
+      "momentum_pct": -3.42,
+      "vol_growth_pct": 420.62,
+      "rel_strength_pct": -5.75,
+      "avg_volume": 4128815
     },
     {
-      "symbol": "IDA",
-      "score": 43.45,
-      "price": 154.55,
-      "momentum_pct": 11.5,
-      "vol_growth_pct": 69.8,
-      "rel_strength_pct": 13.13,
-      "avg_volume": 698805
+      "symbol": "CCXI",
+      "score": 39.68,
+      "price": 15.55,
+      "momentum_pct": 51.12,
+      "vol_growth_pct": 276.36,
+      "rel_strength_pct": 48.79,
+      "avg_volume": 4299685
     },
     {
-      "symbol": "MA",
-      "score": 43.42,
-      "price": 539.39,
-      "momentum_pct": 11.96,
-      "vol_growth_pct": 34.03,
-      "rel_strength_pct": 13.59,
-      "avg_volume": 4271005
+      "symbol": "STTK",
+      "score": 39.19,
+      "price": 6.64,
+      "momentum_pct": 58.85,
+      "vol_growth_pct": 161.3,
+      "rel_strength_pct": 56.52,
+      "avg_volume": 1746215
     },
     {
-      "symbol": "CL",
-      "score": 43.41,
-      "price": 95.13,
-      "momentum_pct": 11.79,
-      "vol_growth_pct": 8.65,
-      "rel_strength_pct": 13.41,
-      "avg_volume": 5559275
+      "symbol": "HELP",
+      "score": 38.38,
+      "price": 6.87,
+      "momentum_pct": 69.63,
+      "vol_growth_pct": -4.55,
+      "rel_strength_pct": 67.3,
+      "avg_volume": 1458665
     },
     {
-      "symbol": "HD",
-      "score": 43.4,
-      "price": 357.9,
-      "momentum_pct": 15.47,
-      "vol_growth_pct": 25.53,
-      "rel_strength_pct": 17.1,
-      "avg_volume": 5277870
-    },
-    {
-      "symbol": "KO",
-      "score": 43.39,
-      "price": 84.14,
-      "momentum_pct": 9.53,
-      "vol_growth_pct": 36.84,
-      "rel_strength_pct": 11.15,
-      "avg_volume": 21323950
-    },
-    {
-      "symbol": "FTDR",
-      "score": 43.38,
-      "price": 78.5,
-      "momentum_pct": 24.19,
-      "vol_growth_pct": 73.06,
-      "rel_strength_pct": 25.82,
-      "avg_volume": 714260
-    },
-    {
-      "symbol": "DB",
-      "score": 43.35,
-      "price": 35.86,
-      "momentum_pct": 11.37,
-      "vol_growth_pct": -28.44,
-      "rel_strength_pct": 12.99,
-      "avg_volume": 2959115
-    },
-    {
-      "symbol": "BBVA",
-      "score": 43.33,
-      "price": 25.6,
-      "momentum_pct": 12.13,
-      "vol_growth_pct": -31.71,
-      "rel_strength_pct": 13.76,
-      "avg_volume": 1792045
-    },
-    {
-      "symbol": "CVBF",
-      "score": 43.3,
-      "price": 22.81,
-      "momentum_pct": 11.59,
-      "vol_growth_pct": 52.94,
-      "rel_strength_pct": 13.22,
-      "avg_volume": 1876290
-    },
-    {
-      "symbol": "AXP",
-      "score": 43.29,
-      "price": 351.96,
-      "momentum_pct": 12.62,
-      "vol_growth_pct": 19.71,
-      "rel_strength_pct": 14.24,
-      "avg_volume": 3175155
-    },
-    {
-      "symbol": "USB",
-      "score": 43.29,
-      "price": 61.73,
-      "momentum_pct": 11.31,
-      "vol_growth_pct": 15.41,
-      "rel_strength_pct": 12.93,
-      "avg_volume": 10316400
-    },
-    {
-      "symbol": "XBI",
-      "score": 43.29,
-      "price": 160.46,
-      "momentum_pct": 20.27,
-      "vol_growth_pct": 25.47,
-      "rel_strength_pct": 21.89,
-      "avg_volume": 10101035
-    },
-    {
-      "symbol": "SPG",
-      "score": 43.26,
-      "price": 226.06,
-      "momentum_pct": 9.62,
-      "vol_growth_pct": 42.68,
-      "rel_strength_pct": 11.25,
-      "avg_volume": 2702945
-    },
-    {
-      "symbol": "PRU",
-      "score": 43.26,
-      "price": 112.95,
-      "momentum_pct": 9.32,
-      "vol_growth_pct": 8.37,
-      "rel_strength_pct": 10.95,
-      "avg_volume": 1943100
-    },
-    {
-      "symbol": "UNM",
-      "score": 43.24,
-      "price": 92.34,
-      "momentum_pct": 8.75,
-      "vol_growth_pct": 18.26,
-      "rel_strength_pct": 10.38,
-      "avg_volume": 1594275
-    },
-    {
-      "symbol": "OHI",
-      "score": 43.22,
-      "price": 49.4,
-      "momentum_pct": 13.12,
-      "vol_growth_pct": -19.54,
-      "rel_strength_pct": 14.75,
-      "avg_volume": 2596255
-    },
-    {
-      "symbol": "FSS",
-      "score": 43.22,
-      "price": 131.09,
-      "momentum_pct": 21.48,
-      "vol_growth_pct": 94.49,
-      "rel_strength_pct": 23.11,
-      "avg_volume": 661360
-    },
-    {
-      "symbol": "ACIW",
-      "score": 43.2,
-      "price": 54.88,
-      "momentum_pct": 29.56,
-      "vol_growth_pct": 47.87,
-      "rel_strength_pct": 31.18,
-      "avg_volume": 1093175
-    },
-    {
-      "symbol": "CWT",
-      "score": 43.2,
-      "price": 50.23,
-      "momentum_pct": 11.03,
-      "vol_growth_pct": 53.26,
-      "rel_strength_pct": 12.66,
-      "avg_volume": 601990
-    },
-    {
-      "symbol": "AUB",
-      "score": 43.19,
-      "price": 42.26,
-      "momentum_pct": 11.92,
-      "vol_growth_pct": 68.82,
-      "rel_strength_pct": 13.54,
-      "avg_volume": 1357885
-    },
-    {
-      "symbol": "ABBV",
-      "score": 43.18,
-      "price": 261.07,
-      "momentum_pct": 16.06,
-      "vol_growth_pct": 146.94,
-      "rel_strength_pct": 17.69,
-      "avg_volume": 8992435
-    },
-    {
-      "symbol": "TFSL",
-      "score": 43.15,
-      "price": 17.84,
-      "momentum_pct": 9.25,
-      "vol_growth_pct": -4.7,
-      "rel_strength_pct": 10.87,
-      "avg_volume": 971765
-    },
-    {
-      "symbol": "ED",
-      "score": 43.14,
-      "price": 113.99,
-      "momentum_pct": 9.52,
-      "vol_growth_pct": 35.25,
-      "rel_strength_pct": 11.15,
-      "avg_volume": 2394670
-    },
-    {
-      "symbol": "CNO",
-      "score": 43.13,
-      "price": 52.43,
-      "momentum_pct": 11.27,
-      "vol_growth_pct": 77.79,
-      "rel_strength_pct": 12.9,
-      "avg_volume": 915915
-    },
-    {
-      "symbol": "FIBK",
-      "score": 43.09,
-      "price": 39.15,
-      "momentum_pct": 9.6,
-      "vol_growth_pct": 39.4,
-      "rel_strength_pct": 11.23,
-      "avg_volume": 1071090
-    },
-    {
-      "symbol": "ONB",
-      "score": 43.08,
-      "price": 26,
-      "momentum_pct": 8.47,
-      "vol_growth_pct": 38.58,
-      "rel_strength_pct": 10.09,
-      "avg_volume": 4399740
-    },
-    {
-      "symbol": "PNC",
-      "score": 43.07,
-      "price": 249.49,
-      "momentum_pct": 9.87,
-      "vol_growth_pct": 5.51,
-      "rel_strength_pct": 11.49,
-      "avg_volume": 2472840
-    },
-    {
-      "symbol": "QNST",
-      "score": 43.06,
-      "price": 15.82,
-      "momentum_pct": 33.39,
-      "vol_growth_pct": 25.27,
-      "rel_strength_pct": 35.02,
-      "avg_volume": 702150
-    },
-    {
-      "symbol": "HIG",
-      "score": 43.02,
-      "price": 137.85,
-      "momentum_pct": 8.26,
-      "vol_growth_pct": 13.4,
-      "rel_strength_pct": 9.89,
-      "avg_volume": 1895230
-    },
-    {
-      "symbol": "KYMR",
-      "score": 43,
-      "price": 113.51,
-      "momentum_pct": 52.14,
-      "vol_growth_pct": 192.57,
-      "rel_strength_pct": 53.76,
-      "avg_volume": 1308105
-    },
-    {
-      "symbol": "FHB",
-      "score": 42.99,
-      "price": 29.97,
-      "momentum_pct": 10.02,
-      "vol_growth_pct": 74.17,
-      "rel_strength_pct": 11.65,
-      "avg_volume": 1722160
-    },
-    {
-      "symbol": "BAC",
-      "score": 42.97,
-      "price": 58.73,
-      "momentum_pct": 8.42,
-      "vol_growth_pct": 7.26,
-      "rel_strength_pct": 10.04,
-      "avg_volume": 37374110
-    },
-    {
-      "symbol": "NVST",
-      "score": 42.95,
-      "price": 27.63,
-      "momentum_pct": 20.81,
-      "vol_growth_pct": -0.73,
-      "rel_strength_pct": 22.44,
-      "avg_volume": 2672230
-    },
-    {
-      "symbol": "L",
-      "score": 42.92,
-      "price": 116.52,
-      "momentum_pct": 10.95,
-      "vol_growth_pct": 17.1,
-      "rel_strength_pct": 12.58,
-      "avg_volume": 920475
-    },
-    {
-      "symbol": "FNB",
-      "score": 42.91,
-      "price": 19.03,
-      "momentum_pct": 7.88,
-      "vol_growth_pct": -2.05,
-      "rel_strength_pct": 9.51,
-      "avg_volume": 4654015
-    },
-    {
-      "symbol": "NWL",
-      "score": 42.87,
-      "price": 5.83,
-      "momentum_pct": 51.82,
-      "vol_growth_pct": 46.75,
-      "rel_strength_pct": 53.45,
-      "avg_volume": 16387520
-    },
-    {
-      "symbol": "CBSH",
-      "score": 42.87,
-      "price": 58.03,
-      "momentum_pct": 10.64,
-      "vol_growth_pct": 3.35,
-      "rel_strength_pct": 12.26,
-      "avg_volume": 1438345
-    },
-    {
-      "symbol": "RDY",
-      "score": 42.87,
-      "price": 14.38,
-      "momentum_pct": 8.61,
-      "vol_growth_pct": 149.2,
-      "rel_strength_pct": 10.24,
-      "avg_volume": 2540365
-    },
-    {
-      "symbol": "CXT",
-      "score": 42.87,
-      "price": 52.5,
-      "momentum_pct": 41.02,
-      "vol_growth_pct": 72.8,
-      "rel_strength_pct": 42.64,
-      "avg_volume": 1391875
-    },
-    {
-      "symbol": "ZION",
-      "score": 42.86,
-      "price": 69.35,
-      "momentum_pct": 9.99,
-      "vol_growth_pct": -10.82,
-      "rel_strength_pct": 11.62,
-      "avg_volume": 1831515
-    },
-    {
-      "symbol": "CUZ",
-      "score": 42.86,
-      "price": 31.06,
-      "momentum_pct": 11.93,
-      "vol_growth_pct": -11.8,
-      "rel_strength_pct": 13.55,
-      "avg_volume": 1890060
-    },
-    {
-      "symbol": "SLN",
-      "score": 42.85,
-      "price": 10.39,
-      "momentum_pct": 51.68,
-      "vol_growth_pct": 228.67,
-      "rel_strength_pct": 53.3,
-      "avg_volume": 571030
-    },
-    {
-      "symbol": "WRB",
-      "score": 42.84,
-      "price": 72.08,
-      "momentum_pct": 8.7,
-      "vol_growth_pct": 20.12,
-      "rel_strength_pct": 10.33,
-      "avg_volume": 2126300
-    },
-    {
-      "symbol": "CMG",
-      "score": 42.82,
-      "price": 35.39,
-      "momentum_pct": 25.59,
-      "vol_growth_pct": 7.57,
-      "rel_strength_pct": 27.21,
-      "avg_volume": 22109035
+      "symbol": "TENX",
+      "score": 38.24,
+      "price": 17.55,
+      "momentum_pct": 63.56,
+      "vol_growth_pct": 63.72,
+      "rel_strength_pct": 61.23,
+      "avg_volume": 1518580
     },
     {
       "symbol": "NHI",
-      "score": 42.79,
-      "price": 77.49,
-      "momentum_pct": 13.42,
-      "vol_growth_pct": 351.93,
-      "rel_strength_pct": 15.05,
-      "avg_volume": 1003445
+      "score": 38.21,
+      "price": 75.33,
+      "momentum_pct": 4.68,
+      "vol_growth_pct": 162.21,
+      "rel_strength_pct": 2.35,
+      "avg_volume": 1001265
     },
     {
-      "symbol": "SEZL",
-      "score": 42.75,
-      "price": 183.24,
-      "momentum_pct": 51.48,
-      "vol_growth_pct": 11.49,
-      "rel_strength_pct": 53.1,
-      "avg_volume": 682825
+      "symbol": "LABU",
+      "score": 37.86,
+      "price": 293.84,
+      "momentum_pct": 68.4,
+      "vol_growth_pct": -11.42,
+      "rel_strength_pct": 66.07,
+      "avg_volume": 610665
+    },
+    {
+      "symbol": "IBB",
+      "score": 37.82,
+      "price": 192.06,
+      "momentum_pct": 12.65,
+      "vol_growth_pct": 29.26,
+      "rel_strength_pct": 10.32,
+      "avg_volume": 1788535
+    },
+    {
+      "symbol": "NMIH",
+      "score": 37.69,
+      "price": 41.16,
+      "momentum_pct": 12.03,
+      "vol_growth_pct": 31.86,
+      "rel_strength_pct": 9.7,
+      "avg_volume": 653310
+    },
+    {
+      "symbol": "ZBIO",
+      "score": 37.46,
+      "price": 28.74,
+      "momentum_pct": 61.82,
+      "vol_growth_pct": 51.58,
+      "rel_strength_pct": 59.49,
+      "avg_volume": 1144725
+    },
+    {
+      "symbol": "WSE",
+      "score": 37.38,
+      "price": 12.88,
+      "momentum_pct": 23.85,
+      "vol_growth_pct": 30.74,
+      "rel_strength_pct": 21.52,
+      "avg_volume": 1265815
+    },
+    {
+      "symbol": "CON",
+      "score": 37.15,
+      "price": 31.55,
+      "momentum_pct": 15.82,
+      "vol_growth_pct": 36.02,
+      "rel_strength_pct": 13.49,
+      "avg_volume": 1138645
+    },
+    {
+      "symbol": "BBIO",
+      "score": 36.86,
+      "price": 85.89,
+      "momentum_pct": 27.15,
+      "vol_growth_pct": 173.11,
+      "rel_strength_pct": 24.82,
+      "avg_volume": 5090495
+    },
+    {
+      "symbol": "XENE",
+      "score": 36.83,
+      "price": 68.92,
+      "momentum_pct": 32.06,
+      "vol_growth_pct": 100.02,
+      "rel_strength_pct": 29.73,
+      "avg_volume": 1993425
+    },
+    {
+      "symbol": "CNA",
+      "score": 36.83,
+      "price": 51.3,
+      "momentum_pct": 14.38,
+      "vol_growth_pct": -30.49,
+      "rel_strength_pct": 12.05,
+      "avg_volume": 634515
+    },
+    {
+      "symbol": "RYAAY",
+      "score": 36.81,
+      "price": 64.63,
+      "momentum_pct": 8.82,
+      "vol_growth_pct": 85.33,
+      "rel_strength_pct": 6.49,
+      "avg_volume": 1361355
+    },
+    {
+      "symbol": "ALL",
+      "score": 36.76,
+      "price": 251.61,
+      "momentum_pct": 14.59,
+      "vol_growth_pct": -11.3,
+      "rel_strength_pct": 12.26,
+      "avg_volume": 1915360
+    },
+    {
+      "symbol": "ESNT",
+      "score": 36.71,
+      "price": 64.36,
+      "momentum_pct": 11.1,
+      "vol_growth_pct": 13.73,
+      "rel_strength_pct": 8.77,
+      "avg_volume": 982500
+    },
+    {
+      "symbol": "MBX",
+      "score": 36.68,
+      "price": 61.05,
+      "momentum_pct": 63.89,
+      "vol_growth_pct": -6.85,
+      "rel_strength_pct": 61.56,
+      "avg_volume": 1187155
+    },
+    {
+      "symbol": "INMD",
+      "score": 36.68,
+      "price": 15.28,
+      "momentum_pct": 13.27,
+      "vol_growth_pct": -19.74,
+      "rel_strength_pct": 10.94,
+      "avg_volume": 855220
+    },
+    {
+      "symbol": "GMAB",
+      "score": 36.66,
+      "price": 29,
+      "momentum_pct": 14.9,
+      "vol_growth_pct": 50.59,
+      "rel_strength_pct": 12.57,
+      "avg_volume": 1913160
+    },
+    {
+      "symbol": "CURB",
+      "score": 36.65,
+      "price": 30.41,
+      "momentum_pct": 1.81,
+      "vol_growth_pct": 111.34,
+      "rel_strength_pct": -0.52,
+      "avg_volume": 1569780
+    },
+    {
+      "symbol": "RPD",
+      "score": 36.57,
+      "price": 11.17,
+      "momentum_pct": 56.66,
+      "vol_growth_pct": 76.46,
+      "rel_strength_pct": 54.33,
+      "avg_volume": 2728500
+    },
+    {
+      "symbol": "UGP",
+      "score": 36.49,
+      "price": 6,
+      "momentum_pct": 22.45,
+      "vol_growth_pct": 5.4,
+      "rel_strength_pct": 20.12,
+      "avg_volume": 3007530
+    },
+    {
+      "symbol": "QNST",
+      "score": 36.45,
+      "price": 16.79,
+      "momentum_pct": 37.74,
+      "vol_growth_pct": 26.69,
+      "rel_strength_pct": 35.41,
+      "avg_volume": 705235
+    },
+    {
+      "symbol": "PRVA",
+      "score": 36.44,
+      "price": 27.49,
+      "momentum_pct": 17.68,
+      "vol_growth_pct": 38.23,
+      "rel_strength_pct": 15.35,
+      "avg_volume": 1256155
+    },
+    {
+      "symbol": "FFBC",
+      "score": 36.39,
+      "price": 34.47,
+      "momentum_pct": 8.46,
+      "vol_growth_pct": 44.01,
+      "rel_strength_pct": 6.13,
+      "avg_volume": 1082060
+    },
+    {
+      "symbol": "CWT",
+      "score": 36.39,
+      "price": 49.71,
+      "momentum_pct": 9.61,
+      "vol_growth_pct": 9.6,
+      "rel_strength_pct": 7.28,
+      "avg_volume": 595410
+    },
+    {
+      "symbol": "TBPH",
+      "score": 36.29,
+      "price": 16.93,
+      "momentum_pct": 2.67,
+      "vol_growth_pct": 134.79,
+      "rel_strength_pct": 0.34,
+      "avg_volume": 908595
+    },
+    {
+      "symbol": "HDB",
+      "score": 36.23,
+      "price": 26.51,
+      "momentum_pct": 11.34,
+      "vol_growth_pct": -9.55,
+      "rel_strength_pct": 9.01,
+      "avg_volume": 8307935
+    },
+    {
+      "symbol": "DTIL",
+      "score": 36.17,
+      "price": 8.76,
+      "momentum_pct": 41.98,
+      "vol_growth_pct": 238.89,
+      "rel_strength_pct": 39.65,
+      "avg_volume": 625990
+    },
+    {
+      "symbol": "AHR",
+      "score": 36.16,
+      "price": 53.57,
+      "momentum_pct": 15.08,
+      "vol_growth_pct": 86.71,
+      "rel_strength_pct": 12.75,
+      "avg_volume": 4748555
+    },
+    {
+      "symbol": "RDN",
+      "score": 36.08,
+      "price": 37.84,
+      "momentum_pct": 10.84,
+      "vol_growth_pct": -18.83,
+      "rel_strength_pct": 8.51,
+      "avg_volume": 1275615
+    },
+    {
+      "symbol": "MTG",
+      "score": 35.91,
+      "price": 28.14,
+      "momentum_pct": 10.48,
+      "vol_growth_pct": 3.59,
+      "rel_strength_pct": 8.15,
+      "avg_volume": 1950550
+    },
+    {
+      "symbol": "XYL",
+      "score": 35.9,
+      "price": 121.22,
+      "momentum_pct": 11.16,
+      "vol_growth_pct": -6.5,
+      "rel_strength_pct": 8.83,
+      "avg_volume": 1924125
+    },
+    {
+      "symbol": "ACGL",
+      "score": 35.8,
+      "price": 101.06,
+      "momentum_pct": 10.9,
+      "vol_growth_pct": -23.18,
+      "rel_strength_pct": 8.57,
+      "avg_volume": 2106185
+    },
+    {
+      "symbol": "AXS",
+      "score": 35.79,
+      "price": 113.06,
+      "momentum_pct": 13.58,
+      "vol_growth_pct": -6.32,
+      "rel_strength_pct": 11.25,
+      "avg_volume": 784150
+    },
+    {
+      "symbol": "CDP",
+      "score": 35.75,
+      "price": 36.52,
+      "momentum_pct": 6.47,
+      "vol_growth_pct": 20.27,
+      "rel_strength_pct": 4.14,
+      "avg_volume": 1217720
+    },
+    {
+      "symbol": "PAY",
+      "score": 35.75,
+      "price": 28.23,
+      "momentum_pct": 36.44,
+      "vol_growth_pct": 154.86,
+      "rel_strength_pct": 34.11,
+      "avg_volume": 1507310
+    },
+    {
+      "symbol": "ABSI",
+      "score": 35.69,
+      "price": 10.6,
+      "momentum_pct": 62.83,
+      "vol_growth_pct": -35.99,
+      "rel_strength_pct": 60.5,
+      "avg_volume": 8153760
+    },
+    {
+      "symbol": "KMB",
+      "score": 35.68,
+      "price": 112.41,
+      "momentum_pct": 10.71,
+      "vol_growth_pct": 2.6,
+      "rel_strength_pct": 8.38,
+      "avg_volume": 4863585
+    },
+    {
+      "symbol": "ONB",
+      "score": 35.66,
+      "price": 26.21,
+      "momentum_pct": 6.16,
+      "vol_growth_pct": 20.12,
+      "rel_strength_pct": 3.83,
+      "avg_volume": 4551345
+    },
+    {
+      "symbol": "BNL",
+      "score": 35.65,
+      "price": 21.83,
+      "momentum_pct": 4.45,
+      "vol_growth_pct": 48.7,
+      "rel_strength_pct": 2.12,
+      "avg_volume": 2245390
+    },
+    {
+      "symbol": "PB",
+      "score": 35.65,
+      "price": 71.99,
+      "momentum_pct": 0.63,
+      "vol_growth_pct": 96.97,
+      "rel_strength_pct": -1.7,
+      "avg_volume": 1602895
+    },
+    {
+      "symbol": "V",
+      "score": 35.61,
+      "price": 348.97,
+      "momentum_pct": 9.38,
+      "vol_growth_pct": 9.98,
+      "rel_strength_pct": 7.05,
+      "avg_volume": 9518305
+    },
+    {
+      "symbol": "XBI",
+      "score": 35.58,
+      "price": 159.03,
+      "momentum_pct": 19.81,
+      "vol_growth_pct": -11.95,
+      "rel_strength_pct": 17.48,
+      "avg_volume": 10371105
+    },
+    {
+      "symbol": "JPM",
+      "score": 35.55,
+      "price": 336.47,
+      "momentum_pct": 7.33,
+      "vol_growth_pct": 9.44,
+      "rel_strength_pct": 5,
+      "avg_volume": 10859450
+    },
+    {
+      "symbol": "PRU",
+      "score": 35.52,
+      "price": 115.37,
+      "momentum_pct": 8.32,
+      "vol_growth_pct": -12.47,
+      "rel_strength_pct": 5.99,
+      "avg_volume": 1909450
+    },
+    {
+      "symbol": "SAN",
+      "score": 35.52,
+      "price": 13.87,
+      "momentum_pct": 10.43,
+      "vol_growth_pct": -3.89,
+      "rel_strength_pct": 8.1,
+      "avg_volume": 8562020
+    },
+    {
+      "symbol": "CCEP",
+      "score": 35.48,
+      "price": 105.84,
+      "momentum_pct": 8.34,
+      "vol_growth_pct": 10.5,
+      "rel_strength_pct": 6.01,
+      "avg_volume": 1981955
+    },
+    {
+      "symbol": "ARMK",
+      "score": 35.44,
+      "price": 57.88,
+      "momentum_pct": 6.14,
+      "vol_growth_pct": 22.95,
+      "rel_strength_pct": 3.81,
+      "avg_volume": 2437130
+    },
+    {
+      "symbol": "ARI",
+      "score": 35.43,
+      "price": 10.43,
+      "momentum_pct": -3.25,
+      "vol_growth_pct": 130.26,
+      "rel_strength_pct": -5.58,
+      "avg_volume": 4713765
+    },
+    {
+      "symbol": "MNST",
+      "score": 35.41,
+      "price": 97.39,
+      "momentum_pct": 5.82,
+      "vol_growth_pct": 10.75,
+      "rel_strength_pct": 3.49,
+      "avg_volume": 5969765
+    },
+    {
+      "symbol": "FHB",
+      "score": 35.4,
+      "price": 30.13,
+      "momentum_pct": 7.03,
+      "vol_growth_pct": 25.53,
+      "rel_strength_pct": 4.7,
+      "avg_volume": 1807575
+    },
+    {
+      "symbol": "SIGI",
+      "score": 35.4,
+      "price": 95.93,
+      "momentum_pct": 4.37,
+      "vol_growth_pct": 51.07,
+      "rel_strength_pct": 2.04,
+      "avg_volume": 642325
+    },
+    {
+      "symbol": "SCHW",
+      "score": 35.39,
+      "price": 103.12,
+      "momentum_pct": 16.26,
+      "vol_growth_pct": -26.51,
+      "rel_strength_pct": 13.93,
+      "avg_volume": 11561875
+    },
+    {
+      "symbol": "PBUS",
+      "score": 35.38,
+      "price": 75.71,
+      "momentum_pct": 2.41,
+      "vol_growth_pct": 233.6,
+      "rel_strength_pct": 0.08,
+      "avg_volume": 595490
+    },
+    {
+      "symbol": "GFL",
+      "score": 35.36,
+      "price": 39.75,
+      "momentum_pct": 10.82,
+      "vol_growth_pct": 121.49,
+      "rel_strength_pct": 8.49,
+      "avg_volume": 3844845
+    },
+    {
+      "symbol": "AGNC",
+      "score": 35.36,
+      "price": 11.13,
+      "momentum_pct": 8.06,
+      "vol_growth_pct": 37.02,
+      "rel_strength_pct": 5.73,
+      "avg_volume": 15970040
+    },
+    {
+      "symbol": "TRNO",
+      "score": 35.34,
+      "price": 69.4,
+      "momentum_pct": 4.11,
+      "vol_growth_pct": 50.25,
+      "rel_strength_pct": 1.78,
+      "avg_volume": 1188010
+    },
+    {
+      "symbol": "TRV",
+      "score": 35.33,
+      "price": 338.92,
+      "momentum_pct": 11.52,
+      "vol_growth_pct": -38.26,
+      "rel_strength_pct": 9.19,
+      "avg_volume": 2187270
+    },
+    {
+      "symbol": "CQQQ",
+      "score": 35.31,
+      "price": 55.64,
+      "momentum_pct": 7.08,
+      "vol_growth_pct": 97.21,
+      "rel_strength_pct": 4.75,
+      "avg_volume": 1439710
+    },
+    {
+      "symbol": "NMR",
+      "score": 35.28,
+      "price": 9.66,
+      "momentum_pct": 11.16,
+      "vol_growth_pct": -23.5,
+      "rel_strength_pct": 8.83,
+      "avg_volume": 1359125
+    },
+    {
+      "symbol": "AUB",
+      "score": 35.27,
+      "price": 42.06,
+      "momentum_pct": 6.48,
+      "vol_growth_pct": 37.04,
+      "rel_strength_pct": 4.15,
+      "avg_volume": 1353070
+    },
+    {
+      "symbol": "IDA",
+      "score": 35.27,
+      "price": 150.65,
+      "momentum_pct": 6.42,
+      "vol_growth_pct": 28.86,
+      "rel_strength_pct": 4.09,
+      "avg_volume": 688570
+    },
+    {
+      "symbol": "ABBV",
+      "score": 35.26,
+      "price": 248.08,
+      "momentum_pct": 10.37,
+      "vol_growth_pct": 70.28,
+      "rel_strength_pct": 8.04,
+      "avg_volume": 9460065
+    },
+    {
+      "symbol": "NVO",
+      "score": 35.23,
+      "price": 49.48,
+      "momentum_pct": 12.56,
+      "vol_growth_pct": -15.29,
+      "rel_strength_pct": 10.23,
+      "avg_volume": 11646910
+    },
+    {
+      "symbol": "GL",
+      "score": 35.23,
+      "price": 179.13,
+      "momentum_pct": 8.5,
+      "vol_growth_pct": -15.29,
+      "rel_strength_pct": 6.17,
+      "avg_volume": 702725
+    },
+    {
+      "symbol": "CB",
+      "score": 35.2,
+      "price": 347.83,
+      "momentum_pct": 6.07,
+      "vol_growth_pct": 22.43,
+      "rel_strength_pct": 3.74,
+      "avg_volume": 1698080
+    },
+    {
+      "symbol": "FIBK",
+      "score": 35.2,
+      "price": 38.85,
+      "momentum_pct": 6.26,
+      "vol_growth_pct": 7.42,
+      "rel_strength_pct": 3.93,
+      "avg_volume": 1069525
+    },
+    {
+      "symbol": "MFG",
+      "score": 35.18,
+      "price": 10.48,
+      "momentum_pct": 10.08,
+      "vol_growth_pct": -8.64,
+      "rel_strength_pct": 7.75,
+      "avg_volume": 4433325
+    },
+    {
+      "symbol": "VTR",
+      "score": 35.14,
+      "price": 90.66,
+      "momentum_pct": 8.07,
+      "vol_growth_pct": -1.67,
+      "rel_strength_pct": 5.74,
+      "avg_volume": 4368340
+    },
+    {
+      "symbol": "MAGS",
+      "score": 35.11,
+      "price": 67.68,
+      "momentum_pct": 4.27,
+      "vol_growth_pct": 20.05,
+      "rel_strength_pct": 1.94,
+      "avg_volume": 5465080
+    },
+    {
+      "symbol": "HG",
+      "score": 35.11,
+      "price": 34.6,
+      "momentum_pct": 8.43,
+      "vol_growth_pct": 68.42,
+      "rel_strength_pct": 6.1,
+      "avg_volume": 557660
+    },
+    {
+      "symbol": "USB",
+      "score": 35.1,
+      "price": 62.41,
+      "momentum_pct": 8.29,
+      "vol_growth_pct": -27.1,
+      "rel_strength_pct": 5.96,
+      "avg_volume": 9650395
+    },
+    {
+      "symbol": "LXP",
+      "score": 35.08,
+      "price": 55.05,
+      "momentum_pct": 4.68,
+      "vol_growth_pct": 14.63,
+      "rel_strength_pct": 2.35,
+      "avg_volume": 587520
+    },
+    {
+      "symbol": "BPOP",
+      "score": 35.08,
+      "price": 170.56,
+      "momentum_pct": 7.4,
+      "vol_growth_pct": -1.92,
+      "rel_strength_pct": 5.07,
+      "avg_volume": 618695
+    },
+    {
+      "symbol": "ORI",
+      "score": 35.06,
+      "price": 41.43,
+      "momentum_pct": 8.43,
+      "vol_growth_pct": 9.52,
+      "rel_strength_pct": 6.1,
+      "avg_volume": 1753860
+    },
+    {
+      "symbol": "NTST",
+      "score": 35.04,
+      "price": 21.5,
+      "momentum_pct": 6.54,
+      "vol_growth_pct": 78.19,
+      "rel_strength_pct": 4.21,
+      "avg_volume": 3062655
+    },
+    {
+      "symbol": "VIV",
+      "score": 35.04,
+      "price": 13.94,
+      "momentum_pct": 5.85,
+      "vol_growth_pct": 17.15,
+      "rel_strength_pct": 3.52,
+      "avg_volume": 1082425
+    },
+    {
+      "symbol": "FR",
+      "score": 35.04,
+      "price": 65.01,
+      "momentum_pct": 3.54,
+      "vol_growth_pct": 22.22,
+      "rel_strength_pct": 1.21,
+      "avg_volume": 1339415
+    },
+    {
+      "symbol": "ODD",
+      "score": 35.04,
+      "price": 17.08,
+      "momentum_pct": 55.84,
+      "vol_growth_pct": 21.45,
+      "rel_strength_pct": 53.51,
+      "avg_volume": 1622945
+    },
+    {
+      "symbol": "QGEN",
+      "score": 35.03,
+      "price": 41.51,
+      "momentum_pct": 10.93,
+      "vol_growth_pct": 45.89,
+      "rel_strength_pct": 8.6,
+      "avg_volume": 3211205
+    },
+    {
+      "symbol": "BAC",
+      "score": 35.02,
+      "price": 59.67,
+      "momentum_pct": 8.18,
+      "vol_growth_pct": -12.04,
+      "rel_strength_pct": 5.85,
+      "avg_volume": 35097535
+    },
+    {
+      "symbol": "PNC",
+      "score": 35.02,
+      "price": 251.91,
+      "momentum_pct": 7.68,
+      "vol_growth_pct": -26.63,
+      "rel_strength_pct": 5.35,
+      "avg_volume": 2503940
+    },
+    {
+      "symbol": "WM",
+      "score": 35.02,
+      "price": 233.33,
+      "momentum_pct": 6.65,
+      "vol_growth_pct": 0.05,
+      "rel_strength_pct": 4.32,
+      "avg_volume": 2384325
+    },
+    {
+      "symbol": "BCS",
+      "score": 35,
+      "price": 27.48,
+      "momentum_pct": 11.03,
+      "vol_growth_pct": -24.06,
+      "rel_strength_pct": 8.7,
+      "avg_volume": 4746055
+    },
+    {
+      "symbol": "TENB",
+      "score": 35,
+      "price": 39.78,
+      "momentum_pct": 48.05,
+      "vol_growth_pct": 114.93,
+      "rel_strength_pct": 45.72,
+      "avg_volume": 3399265
+    },
+    {
+      "symbol": "PGR",
+      "score": 34.99,
+      "price": 230.72,
+      "momentum_pct": 14.07,
+      "vol_growth_pct": -23.27,
+      "rel_strength_pct": 11.74,
+      "avg_volume": 3638125
+    },
+    {
+      "symbol": "UNP",
+      "score": 34.99,
+      "price": 286.96,
+      "momentum_pct": 6.96,
+      "vol_growth_pct": -6.8,
+      "rel_strength_pct": 4.63,
+      "avg_volume": 2633170
+    },
+    {
+      "symbol": "ASB",
+      "score": 34.98,
+      "price": 30.6,
+      "momentum_pct": 5.66,
+      "vol_growth_pct": 6.83,
+      "rel_strength_pct": 3.33,
+      "avg_volume": 2496285
+    },
+    {
+      "symbol": "AVAH",
+      "score": 34.96,
+      "price": 9.7,
+      "momentum_pct": 38.57,
+      "vol_growth_pct": 18.53,
+      "rel_strength_pct": 36.24,
+      "avg_volume": 2450755
+    },
+    {
+      "symbol": "AMP",
+      "score": 34.95,
+      "price": 506.76,
+      "momentum_pct": 12.52,
+      "vol_growth_pct": 30.15,
+      "rel_strength_pct": 10.19,
+      "avg_volume": 796915
+    },
+    {
+      "symbol": "SYY",
+      "score": 34.93,
+      "price": 83.83,
+      "momentum_pct": 5.26,
+      "vol_growth_pct": 1.12,
+      "rel_strength_pct": 2.93,
+      "avg_volume": 3833005
+    },
+    {
+      "symbol": "VLTO",
+      "score": 34.92,
+      "price": 92.7,
+      "momentum_pct": 12.17,
+      "vol_growth_pct": -12.4,
+      "rel_strength_pct": 9.84,
+      "avg_volume": 2506030
+    },
+    {
+      "symbol": "RLI",
+      "score": 34.92,
+      "price": 60.65,
+      "momentum_pct": 12.05,
+      "vol_growth_pct": 3.16,
+      "rel_strength_pct": 9.72,
+      "avg_volume": 995595
+    },
+    {
+      "symbol": "HWC",
+      "score": 34.89,
+      "price": 75.41,
+      "momentum_pct": 5.42,
+      "vol_growth_pct": 5.06,
+      "rel_strength_pct": 3.09,
+      "avg_volume": 995775
+    },
+    {
+      "symbol": "WRB",
+      "score": 34.89,
+      "price": 72.19,
+      "momentum_pct": 6.88,
+      "vol_growth_pct": -20.01,
+      "rel_strength_pct": 4.55,
+      "avg_volume": 2086515
+    },
+    {
+      "symbol": "REYN",
+      "score": 34.87,
+      "price": 26.27,
+      "momentum_pct": 12.17,
+      "vol_growth_pct": 17.73,
+      "rel_strength_pct": 9.84,
+      "avg_volume": 1349025
+    },
+    {
+      "symbol": "AFG",
+      "score": 34.86,
+      "price": 141.38,
+      "momentum_pct": 6.78,
+      "vol_growth_pct": -18.93,
+      "rel_strength_pct": 4.45,
+      "avg_volume": 608600
+    },
+    {
+      "symbol": "CM",
+      "score": 34.86,
+      "price": 117.78,
+      "momentum_pct": 5.31,
+      "vol_growth_pct": 23.65,
+      "rel_strength_pct": 2.98,
+      "avg_volume": 1949220
+    },
+    {
+      "symbol": "AIG",
+      "score": 34.84,
+      "price": 79.17,
+      "momentum_pct": 5.11,
+      "vol_growth_pct": 20.36,
+      "rel_strength_pct": 2.78,
+      "avg_volume": 4432800
+    },
+    {
+      "symbol": "ES",
+      "score": 34.83,
+      "price": 74.82,
+      "momentum_pct": 9.34,
+      "vol_growth_pct": -22.07,
+      "rel_strength_pct": 7.01,
+      "avg_volume": 2752725
+    },
+    {
+      "symbol": "CFR",
+      "score": 34.82,
+      "price": 156.86,
+      "momentum_pct": 7.36,
+      "vol_growth_pct": -25.87,
+      "rel_strength_pct": 5.03,
+      "avg_volume": 655210
+    },
+    {
+      "symbol": "GOOGN",
+      "score": 34.81,
+      "price": 50.14,
+      "momentum_pct": -0.22,
+      "vol_growth_pct": 131.52,
+      "rel_strength_pct": -2.55,
+      "avg_volume": 4236990
+    },
+    {
+      "symbol": "CCK",
+      "score": 34.8,
+      "price": 111.47,
+      "momentum_pct": 14.13,
+      "vol_growth_pct": -23.18,
+      "rel_strength_pct": 11.8,
+      "avg_volume": 1191140
+    },
+    {
+      "symbol": "KVUE",
+      "score": 34.8,
+      "price": 19.48,
+      "momentum_pct": 7.8,
+      "vol_growth_pct": -17.8,
+      "rel_strength_pct": 5.47,
+      "avg_volume": 19918335
+    },
+    {
+      "symbol": "SSB",
+      "score": 34.78,
+      "price": 99.68,
+      "momentum_pct": 2.24,
+      "vol_growth_pct": 33.94,
+      "rel_strength_pct": -0.09,
+      "avg_volume": 863910
+    },
+    {
+      "symbol": "WSFS",
+      "score": 34.76,
+      "price": 77.61,
+      "momentum_pct": 4.4,
+      "vol_growth_pct": 9.5,
+      "rel_strength_pct": 2.07,
+      "avg_volume": 562490
+    },
+    {
+      "symbol": "OGS",
+      "score": 34.75,
+      "price": 79.17,
+      "momentum_pct": 4.05,
+      "vol_growth_pct": 8.06,
+      "rel_strength_pct": 1.72,
+      "avg_volume": 794105
+    },
+    {
+      "symbol": "BUSE",
+      "score": 34.74,
+      "price": 29.2,
+      "momentum_pct": 2.56,
+      "vol_growth_pct": 32.88,
+      "rel_strength_pct": 0.23,
+      "avg_volume": 925415
+    },
+    {
+      "symbol": "EPRT",
+      "score": 34.74,
+      "price": 31.18,
+      "momentum_pct": 2.73,
+      "vol_growth_pct": 28.35,
+      "rel_strength_pct": 0.4,
+      "avg_volume": 2179300
+    },
+    {
+      "symbol": "CFG",
+      "score": 34.73,
+      "price": 70.34,
+      "momentum_pct": 5.76,
+      "vol_growth_pct": 9.73,
+      "rel_strength_pct": 3.43,
+      "avg_volume": 4959435
+    },
+    {
+      "symbol": "ACIW",
+      "score": 34.72,
+      "price": 56.42,
+      "momentum_pct": 27.19,
+      "vol_growth_pct": 21.29,
+      "rel_strength_pct": 24.86,
+      "avg_volume": 1133715
+    },
+    {
+      "symbol": "TROW",
+      "score": 34.72,
+      "price": 118.55,
+      "momentum_pct": 9.49,
+      "vol_growth_pct": 8.64,
+      "rel_strength_pct": 7.16,
+      "avg_volume": 2396635
+    },
+    {
+      "symbol": "SMWB",
+      "score": 34.71,
+      "price": 6.66,
+      "momentum_pct": 57.45,
+      "vol_growth_pct": -11.78,
+      "rel_strength_pct": 55.12,
+      "avg_volume": 1005715
+    },
+    {
+      "symbol": "HOPE",
+      "score": 34.71,
+      "price": 13.44,
+      "momentum_pct": 3.31,
+      "vol_growth_pct": 29.57,
+      "rel_strength_pct": 0.98,
+      "avg_volume": 1291850
+    },
+    {
+      "symbol": "WAFD",
+      "score": 34.71,
+      "price": 38.1,
+      "momentum_pct": 4.18,
+      "vol_growth_pct": 0.12,
+      "rel_strength_pct": 1.85,
+      "avg_volume": 663525
+    },
+    {
+      "symbol": "WCN",
+      "score": 34.71,
+      "price": 171.07,
+      "momentum_pct": 10.03,
+      "vol_growth_pct": -40.07,
+      "rel_strength_pct": 7.7,
+      "avg_volume": 1766550
+    },
+    {
+      "symbol": "RJF",
+      "score": 34.7,
+      "price": 168.12,
+      "momentum_pct": 11.77,
+      "vol_growth_pct": -13.64,
+      "rel_strength_pct": 9.44,
+      "avg_volume": 1595135
+    },
+    {
+      "symbol": "CNO",
+      "score": 34.68,
+      "price": 51.96,
+      "momentum_pct": 3.98,
+      "vol_growth_pct": 37.81,
+      "rel_strength_pct": 1.65,
+      "avg_volume": 917275
+    },
+    {
+      "symbol": "BNY",
+      "score": 34.67,
+      "price": 151.92,
+      "momentum_pct": 6.92,
+      "vol_growth_pct": 21.83,
+      "rel_strength_pct": 4.59,
+      "avg_volume": 4155650
+    },
+    {
+      "symbol": "IHI",
+      "score": 34.66,
+      "price": 51.34,
+      "momentum_pct": 3.36,
+      "vol_growth_pct": 16.82,
+      "rel_strength_pct": 1.03,
+      "avg_volume": 3207865
+    },
+    {
+      "symbol": "MA",
+      "score": 34.66,
+      "price": 526.74,
+      "momentum_pct": 8.27,
+      "vol_growth_pct": 1.97,
+      "rel_strength_pct": 5.94,
+      "avg_volume": 4090320
+    },
+    {
+      "symbol": "WST",
+      "score": 34.64,
+      "price": 353.71,
+      "momentum_pct": 7.07,
+      "vol_growth_pct": -10.69,
+      "rel_strength_pct": 4.74,
+      "avg_volume": 812485
+    },
+    {
+      "symbol": "TOWN",
+      "score": 34.63,
+      "price": 35.8,
+      "momentum_pct": 1.85,
+      "vol_growth_pct": 35.28,
+      "rel_strength_pct": -0.48,
+      "avg_volume": 733755
+    },
+    {
+      "symbol": "CTVA",
+      "score": 34.63,
+      "price": 85.68,
+      "momentum_pct": 14.45,
+      "vol_growth_pct": -31.72,
+      "rel_strength_pct": 12.12,
+      "avg_volume": 4473220
+    },
+    {
+      "symbol": "AGIO",
+      "score": 34.63,
+      "price": 41.23,
+      "momentum_pct": 43.56,
+      "vol_growth_pct": 9.2,
+      "rel_strength_pct": 41.23,
+      "avg_volume": 1345350
+    },
+    {
+      "symbol": "NTRS",
+      "score": 34.62,
+      "price": 183.55,
+      "momentum_pct": 7.5,
+      "vol_growth_pct": -27.93,
+      "rel_strength_pct": 5.17,
+      "avg_volume": 1033380
+    },
+    {
+      "symbol": "FBP",
+      "score": 34.62,
+      "price": 26.68,
+      "momentum_pct": 6.72,
+      "vol_growth_pct": -13.63,
+      "rel_strength_pct": 4.39,
+      "avg_volume": 1652895
+    },
+    {
+      "symbol": "GRPN",
+      "score": 34.61,
+      "price": 26.05,
+      "momentum_pct": 54.42,
+      "vol_growth_pct": 20.87,
+      "rel_strength_pct": 52.09,
+      "avg_volume": 1665335
+    },
+    {
+      "symbol": "BV",
+      "score": 34.6,
+      "price": 14.3,
+      "momentum_pct": 13.04,
+      "vol_growth_pct": 64.44,
+      "rel_strength_pct": 10.71,
+      "avg_volume": 814925
+    },
+    {
+      "symbol": "CVBF",
+      "score": 34.6,
+      "price": 22.47,
+      "momentum_pct": 7.41,
+      "vol_growth_pct": -11.34,
+      "rel_strength_pct": 5.08,
+      "avg_volume": 1923590
+    },
+    {
+      "symbol": "AJG",
+      "score": 34.6,
+      "price": 253.09,
+      "momentum_pct": 14.57,
+      "vol_growth_pct": -6.12,
+      "rel_strength_pct": 12.24,
+      "avg_volume": 2006070
+    },
+    {
+      "symbol": "JNJ",
+      "score": 34.59,
+      "price": 256.98,
+      "momentum_pct": 7.83,
+      "vol_growth_pct": -12.47,
+      "rel_strength_pct": 5.5,
+      "avg_volume": 8948420
+    },
+    {
+      "symbol": "SVXY",
+      "score": 34.56,
+      "price": 58.54,
+      "momentum_pct": 9.26,
+      "vol_growth_pct": -38.06,
+      "rel_strength_pct": 6.93,
+      "avg_volume": 1401700
+    },
+    {
+      "symbol": "BMO",
+      "score": 34.53,
+      "price": 178.96,
+      "momentum_pct": 7.42,
+      "vol_growth_pct": 16.94,
+      "rel_strength_pct": 5.09,
+      "avg_volume": 819085
+    },
+    {
+      "symbol": "YUM",
+      "score": 34.53,
+      "price": 163.54,
+      "momentum_pct": 6.7,
+      "vol_growth_pct": 9.99,
+      "rel_strength_pct": 4.37,
+      "avg_volume": 2489715
     }
   ]
 }
